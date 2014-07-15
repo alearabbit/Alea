@@ -1,0 +1,15 @@
+img {
+	width: 100%;
+}
+
+#two, #three, #four{
+	display: none;
+} 
+
+.fadecycle div{
+	position: absolute;
+}
+
+#fade2, #fade3, #fade4{
+	display: none;
+}
